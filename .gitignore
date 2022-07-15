@@ -41,3 +41,11 @@ set_env.sh
 .elasticbeanstalk/*
 !.elasticbeanstalk/*.cfg.yml
 !.elasticbeanstalk/*.global.yml
+/aws-secret.yaml
+/env-configmap.yaml
+/env-secret.yaml
+/udagram-api/udagram-api.iml
+/udagram-api-feed/udagram-api.iml
+/udagram-api-user/udagram-api.iml
+/udagram-frontend/udagram-frontend.iml
+/set_env.sh
